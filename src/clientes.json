@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Daverson",
+    "filhos": false,
+    "campaign": []
+  },
+  {
+    "name": "Lukerson",
+    "filhos": true,
+    "campaign": []
+  },
+  {
+    "name": "Anderson",
+    "filhos": true,
+    "campaign": []
+  }
+]
